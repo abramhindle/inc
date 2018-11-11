@@ -1,6 +1,7 @@
 # Midi Performance for In C by Terry Riley
 # Realization by Jim Bumgardner (in KeyKit)
 #
+# From https://jbum.com/music/inc.k
 drone = 'cv32o4d48,c,c,c,c,c,c,c';
 
 nbrPlayers = 16

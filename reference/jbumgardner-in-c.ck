@@ -1,3 +1,4 @@
+// From http://electro-music.com/forum/viewtopic.php?t=14237&#038;sid=dbb3ada88a20169e90ee4ce45d79f10
 // ChucK Performance of Terry Riley's 'In C'
 //
 // In this famous canon by composer Terry Riley, each performer is given the
